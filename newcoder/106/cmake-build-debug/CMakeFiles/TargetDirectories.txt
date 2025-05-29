@@ -1,0 +1,3 @@
+/Users/xiangchaolei/len/git/newcoder/106/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/xiangchaolei/len/git/newcoder/106/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/xiangchaolei/len/git/newcoder/106/cmake-build-debug/CMakeFiles/106.dir
